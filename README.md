@@ -2,4 +2,4 @@
 
 My first Repository, 
 
-THis is My First repositiory, I am Glad to contribute to and learn more from the platform. 
+This is My First repository, I am Glad to contribute and learn more from the platform. 
